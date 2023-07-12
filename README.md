@@ -78,4 +78,4 @@ GitHub Codespaces is a service that allows you to develop in the cloud instead o
 
 ## Visit MetaSnake for Help
 
-We hope you enjoy this tutorial and find it helpful. Visit www.metasnake.com for Python and Data training for your teams. Buy *Effective Pandas* to up your pandas skills.
+We hope you enjoy this tutorial and find it helpful. If you want to apply this process to your data with your teams, visit www.metasnake.com for Python and Data training for your teams. Buy *Effective Pandas* to up your pandas skills.
